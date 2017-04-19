@@ -1,0 +1,14 @@
+---
+title: "Homework_2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Simple R markdown
+
+For a **really** cool paper on sunflower solar tracking [click here!] (http://science.sciencemag.org/content/353/6299/587)
+
+In this study **brilliant** scientists Dr. Hagop Atamian and Dr. Nicky Creux sho that sunflowers solar tracking is in part controlled by the circadian clock. They also show that the clock gates this process so that the plants are always facing east when flowering. The following of the sun throughout the plants development and cessation facing east upon flowering was shown to be advantagious for both plant fitness and reproduction. 

@@ -1,9 +1,4 @@
----
-title: "Homework_2"
-output: 
-  html_document: 
-    keep_md: yes
----
+# Homework_2
 
 ## Simple R markdown
 
